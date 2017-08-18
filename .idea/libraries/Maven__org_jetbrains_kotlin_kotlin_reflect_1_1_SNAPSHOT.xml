@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jetbrains.kotlin:kotlin-reflect:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.1-SNAPSHOT/kotlin-reflect-1.1-20170818.174626-802.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.1-SNAPSHOT/kotlin-reflect-1.1-20170818.174626-802-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.1-SNAPSHOT/kotlin-reflect-1.1-20170818.174626-802-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
